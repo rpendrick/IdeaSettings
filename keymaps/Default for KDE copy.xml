@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+</keymap>

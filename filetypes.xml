@@ -8,6 +8,7 @@
       <mapping pattern="BestPractices" type="PLAIN_TEXT" />
       <mapping pattern="BEST PRACTICES" type="PLAIN_TEXT" />
       <mapping pattern="REVIEW" type="PLAIN_TEXT" />
+      <mapping pattern="HistoryOfTheWeb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

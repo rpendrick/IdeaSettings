@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="HowTheInternetWorks" type="PLAIN_TEXT" />
-      <mapping pattern="MapsSets" type="PLAIN_TEXT" />
-      <mapping pattern="Best Practices" type="PLAIN_TEXT" />
       <mapping pattern="BestPractices" type="PLAIN_TEXT" />
       <mapping pattern="BEST PRACTICES" type="PLAIN_TEXT" />
+      <mapping pattern="MapsSets" type="PLAIN_TEXT" />
       <mapping pattern="REVIEW" type="PLAIN_TEXT" />
       <mapping pattern="HistoryOfTheWeb" type="PLAIN_TEXT" />
+      <mapping pattern="Best Practices" type="PLAIN_TEXT" />
+      <mapping pattern="HowTheInternetWorks" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

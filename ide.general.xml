@@ -5,7 +5,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
@@ -14,7 +13,6 @@
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
-    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
@@ -25,5 +23,6 @@
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
